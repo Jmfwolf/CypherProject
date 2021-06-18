@@ -1,8 +1,3 @@
-/* Joseph Wolf CS211
- * Extra Project
- * CypherClient
- * 
-*/
 
 //The file included with the program is "test.txt"
 
