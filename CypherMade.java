@@ -10,7 +10,7 @@
 public class CypherMade{
    private String ABC = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
    private int key;
-   private int modulo = 62;
+   private int modulo = ABC.length();
    
    public CypherMade(int key){
       this.key = key;
