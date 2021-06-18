@@ -1,7 +1,4 @@
-/* Joseph Wolf CS211
- * Extra Project
- * Cypher object
- * 
+/* 
  * Takes a text document and creates an encryption program based on a integer key
  * The program excludes punctuation.
 */
